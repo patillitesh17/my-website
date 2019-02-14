@@ -1,4 +1,0 @@
-Django 
-Pip
-React
-npm
